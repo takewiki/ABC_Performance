@@ -1,5 +1,6 @@
 library(tsda)
 library(tsdo)
+options(java.parameters = '-Xmx6g')
 # startTime <-getTime()
 # conn_abc <- conn_rds('lcdb')
 # #test for t_icitem        21754* 215
